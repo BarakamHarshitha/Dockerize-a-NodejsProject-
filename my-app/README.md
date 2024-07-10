@@ -28,7 +28,7 @@ Clone this repository to your local machine to access the sample files and scrip
 
 ## Setting Up Azure DevOps
 
-Before you can start managing containers with Azure DevOps, you'll need to set up your Azure DevOps project and configure necessary services such as Azure Container Registry (ACR), Azure Kubernetes Service (AKS), etc. Refer to the official Azure DevOps documentation for detailed instructions on setting up your project and configuring services.
+Before you can start managing containers with Azure DevOps, you'll need to set up your Azure DevOps project and configure necessary services such as Azure Container Registry (ACR), Azure Kubernetes Service (AKS), etc.
 
 ## Creating CI/CD Pipelines
 
